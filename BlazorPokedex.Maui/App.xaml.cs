@@ -1,4 +1,6 @@
-﻿namespace BlazorPokedex.Maui
+﻿using Microsoft.Maui.Controls;
+
+namespace BlazorPokedex.Maui
 {
     public partial class App : Application
     {
